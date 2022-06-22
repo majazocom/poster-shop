@@ -7,8 +7,7 @@ Du ska koda upp följande givna design av [poster shop](https://www.figma.com/fi
 
 ### Tekniker
 Du ska i följande projekt visa att du förstår följande tekniker:
-- CSS Flexbox
-- CSS Grid
+- Vue basics
 
 
 ## Screens
